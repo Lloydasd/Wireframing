@@ -56,7 +56,7 @@ A mobile banking app was being designed with a wide range of features. While the
 ### Identifying the Issues
 During the review, the team noticed that the navigation contained too many features, creating confusion and unnecessary complexity. If the app had gone into development this way, users would have wasted time searching for basic functions, and the development team might have needed to rework large parts of the layout later.
 
-### esolution
+### Resolution
 Using a low-fidelity wireframe, the team simplified the design before coding began. They removed non-essential features, reduced the number of clicks needed to complete common actions, and used clearer labels. To further help new users, they also added a short onboarding tutorial explaining each section of the app. Once these changes were agreed upon, the team moved to a refined version of the wireframe to confirm the new flow.
 
 ### Impact on the Final Product
